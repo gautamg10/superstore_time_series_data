@@ -1,7 +1,6 @@
 use [super]
 
-SELECT * FROM [dbo].[train]
-Order by [Order Date];
+SELECT * FROM [dbo].[train];
 
 -- new column sales_next that displays the sales of the next row in the dataset
 
